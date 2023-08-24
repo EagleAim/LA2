@@ -1,0 +1,22 @@
+/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Logan King */
+/***************************************************************
+* Description: Primary style sheet for vallytownhall.com
+* Author:      Anne Boehm
+****************************************************************/
+body  {
+    Background-color: #FACD8A;       /*This is a shade of orange.  */  
+}
+
+h1  {
+    color: #363636
+}
+h2 {
+    Font-style: italic;
+    border-bottom: 3px solid #EF9C00;  /* Add a line below h2s  */
+}
+
+ul  {
+    list-style-type: square;  /* Changes the bullets to squars */
+}
+
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
